@@ -1,0 +1,34 @@
+[
+    {
+        "savol": "10 ning nechta bo'luvchisi bor",
+        "A": "2 ta",
+        "B": "3 ta",
+        "C": "4 ta",
+        "D": "5 ta",
+        "javob": "C"
+    },
+    {
+        "savol": "2 * 2 nechi bo'ladi",
+        "A": "12",
+        "B": "4",
+        "C": "5",
+        "D": "2",
+        "javob": "B"
+    },
+    {
+        "savol": "Tovuq oldin paydo bo'lganmi yoki tuxum",
+        "A": "Tovuq",
+        "B": "Tuxum",
+        "C": "Jo'ja",
+        "D": "Bilmadim",
+        "javob": "A"
+    },
+    {
+        "savol": "1 kg paxta og'irmi yoki 1 kg toshmi",
+        "A": "Paxta",
+        "B": "Tosh",
+        "C": "Ikkalasi teng",
+        "D": "Bilmadim",
+        "javob": "C"
+    }
+]
